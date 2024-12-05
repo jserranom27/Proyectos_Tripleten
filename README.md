@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://via.placeholder.com/1584x396.png" alt="Banner del repositorio" width="100%">
+</div>
+
 # Proyectos de Ciencia de Datos del Bootcamp Tripleten 🎓
 
 ¡Bienvenido/a a mi portafolio de proyectos de ciencia de datos! 👋 Aquí encontrarás una colección de proyectos realizados durante mi formación en el bootcamp de ciencia de datos. Cada uno de ellos aborda diferentes desafíos y aplicaciones prácticas, utilizando una variedad de herramientas y técnicas de análisis de datos, aprendizaje automático y visualización.
@@ -98,5 +102,5 @@
 
 ## 📬 Contacto
 Si tienes alguna pregunta o comentario sobre mis proyectos, ¡no dudes en contactarme!  
-📧 [Tu Correo Electrónico](mailto:serranojefferson687@gmail.com)  
+📧 [Gmail](mailto:serranojefferson687@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-serrano-mendez/)
