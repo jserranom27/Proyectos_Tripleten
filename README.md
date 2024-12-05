@@ -121,8 +121,27 @@
 
 ---
 
-## 📬 Contacto
+## Tecnologías Utilizadas en los Proyectos 🔧
+A continuación, se presentan algunas visualizaciones de las tecnologías aplicadas en diferentes proyectos.
+
+### Diagrama de Venn de Tecnologías Comunes
+Este diagrama muestra las tecnologías más utilizadas en los proyectos de mi portafolio, destacando Python, Scikit-Learn y Pandas.
+
+![Diagrama de Venn](images/diagrama_venn.png)
+
+---
+
+### Gráfico de Barras Horizontales: Tecnologías vs. Proyectos
+Este gráfico compara el uso de diversas tecnologías en múltiples proyectos realizados.
+
+![Gráfico de Barras Horizontales](images/grafico_barras_horizontal.png)
+
+---
+
+## 📬 Contacto  
 Si tienes alguna pregunta o comentario sobre mis proyectos, ¡no dudes en contactarme!  
-📧 [Gmail](mailto:serranojefferson687@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-serrano-mendez/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranojefferson687@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-serrano-mendez/)
+
 
