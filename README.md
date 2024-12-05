@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1584x396.png" alt="Banner del repositorio" width="100%">
+  <img src="bootcamp-data-science.jpg" alt="Banner de Bootcamp" width="100%">
 </div>
 
 # Proyectos de Ciencia de Datos del Bootcamp Tripleten 🎓
