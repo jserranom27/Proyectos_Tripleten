@@ -129,7 +129,7 @@ Este diagrama muestra las tecnologías más utilizadas en los proyectos de mi po
 
 ### 1. Diagrama de Venn📊
 <div align="center">
-  <img src="imágenes/venn_diagram.png" alt="Diagrama de Venn" width="80%">
+  <img src="venn_diagram.png" alt="Diagrama de Venn" width="80%">
 </div>
 
 ---
@@ -138,7 +138,7 @@ Este diagrama muestra las tecnologías más utilizadas en los proyectos de mi po
 Este gráfico compara el uso de diversas tecnologías en múltiples proyectos realizados.
 
 <div align="center">
-  <img src="imágenes/bar_chart_horizontal.png" alt="Gráfico de Barras Horizontales" width="80%">
+  <img src="bar_chart_horizontal.png" alt="Gráfico de Barras Horizontales" width="80%">
 </div>
 
 ---
