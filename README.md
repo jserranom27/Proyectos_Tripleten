@@ -127,14 +127,19 @@ A continuación, se presentan algunas visualizaciones de las tecnologías aplica
 ### Diagrama de Venn de Tecnologías Comunes
 Este diagrama muestra las tecnologías más utilizadas en los proyectos de mi portafolio, destacando Python, Scikit-Learn y Pandas.
 
-![Diagrama de Venn](images/venn_diagram.png)
+### 1. Diagrama de Venn📊
+<div align="center">
+  <img src="imágenes/venn_diagram.png" alt="Diagrama de Venn" width="80%">
+</div>
 
 ---
 
-### Gráfico de Barras Horizontales: Tecnologías vs. Proyectos
+### Gráfico de Barras Horizontales📊: Tecnologías vs. Proyectos
 Este gráfico compara el uso de diversas tecnologías en múltiples proyectos realizados.
 
-![Gráfico de Barras Horizontales](images/bar_chart_horizontal.png)
+<div align="center">
+  <img src="imágenes/bar_chart_horizontal.png" alt="Gráfico de Barras Horizontales" width="80%">
+</div>
 
 ---
 
